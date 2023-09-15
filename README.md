@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doktor-Worm
-- 👀 I’m interested in things
-- 🌱 I’m currently learning the drums
+- Programmer
+-Jimmy Buffett best muscian
 - 📫 How to reach me vergilius.alighieri@protonmail.com
 
 <!---
